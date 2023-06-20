@@ -1,0 +1,10 @@
+D:\Education\Practice\Graphics\bin\Debug\Graphics.exe.config
+D:\Education\Practice\Graphics\bin\Debug\Graphics.exe
+D:\Education\Practice\Graphics\bin\Debug\Graphics.pdb
+D:\Education\Practice\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+D:\Education\Practice\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Education\Practice\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\Education\Practice\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\Education\Practice\Graphics\obj\Debug\Graphics.exe
+D:\Education\Practice\Graphics\obj\Debug\Graphics.pdb
+D:\Education\Practice\Graphics\obj\Debug\BuildGraphics.Graph.resources
